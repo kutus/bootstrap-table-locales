@@ -30,6 +30,9 @@
         formatPaginationSwitch: function () {
             return 'Ocultar/Mostrar paginación';
         },
+        formatAllRows: function () {
+            return 'Todo';
+        },
         formatColumns: function () {
             return 'Columnas';
         }
